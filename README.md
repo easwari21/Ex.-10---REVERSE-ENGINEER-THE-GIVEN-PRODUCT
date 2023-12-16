@@ -31,12 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![stopper image](https://github.com/easwari21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/131534979/ff8c461a-316f-4f58-ae5e-17fe1e7d8355)
 
 ### Output:
+![stopper](https://github.com/easwari21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/131534979/bdd3cfee-b76d-4271-867a-2d13811295a6)
 
+![Drawing](https://github.com/easwari21/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/131534979/a335e952-fa5d-40dd-92c7-eca4bde2ec6f)
 
-### Name:
-### Register Number:
+### Name: Easwari M
+### Register Number: 23006280
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
